@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
 
+
 /**
  * @title Decentralized Insurance Pool
  * @dev A peer-to-peer insurance system where users contribute to risk pools and can file claims
